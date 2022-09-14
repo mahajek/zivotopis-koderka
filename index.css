@@ -75,3 +75,11 @@ hr {
 li {
   font-size: 14px;
 }
+
+footer {
+  font-size: 14px;
+}
+
+a:hover {
+  color: blueviolet;
+}
