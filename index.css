@@ -33,6 +33,37 @@ img {
   margin: 30px;
 }
 
+.contact {
+  text-align: center;
+  font-size: 14px;
+}
+
 .column-right {
-  margin: 30px;
+  margin: 70px 30px 80px 30px;
+}
+
+h1 {
+  font-size: 28px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+hr {
+  width: 400px;
+  height: 5px;
+  background-color: #ffbd59;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 14px;
+}
+
+li {
+  font-size: 14px;
 }
